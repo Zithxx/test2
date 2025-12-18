@@ -1,16 +1,18 @@
 body {
     background-color: black;
-    text-align: center;
 }
 h1 {
-    font: Regular Libre Baskerville;
-    text-transform: capitalize:
+    font-size: 3rem;
+    text-transform: uppercase:
 }
 img {
-    border: 5px white;
+    border: 5px solid white;
     width:100%
 }
-div {
+.poster {
     width: 50%;
     margin-left:25%;
+    margin-top:100%;
+    color: white;
+    text-align: center;
 }
