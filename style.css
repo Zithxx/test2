@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    font: Regular Libre Baskerville;
+    text-transform: capitalize:
+}
+img {
+    border: 5px white;
+    width:100%
+}
+div {
+    width: 50%;
+    margin-left:25%;
+}
