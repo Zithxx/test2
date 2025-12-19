@@ -16,7 +16,8 @@ img {
     color: white;
     text-align: center;
 }
-footer > div {
+footer{
     background-color: white;
     height: 10%;
+    color:white
 }
